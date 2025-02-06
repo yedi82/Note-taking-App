@@ -1,5 +1,3 @@
-# Group 38 Project
-
 # Collaborative Note-Taking Web App
 
 ## Project Overview
